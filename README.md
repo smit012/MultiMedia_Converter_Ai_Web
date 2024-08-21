@@ -6,7 +6,7 @@ HTML,CSS,JS
 # Website_Link : https://mki2pk.csb.app/pdf.html#
 <hr>
 
-## Code : h[ttps://codesandbox.io/p/sandbox/uwu-com-forked-kqcmnq](https://codesandbox.io/p/sandbox/uwu-com-forked-kqcmnq?file=%2Ffile.html)
+## Code : https://codesandbox.io/p/sandbox/uwu-com-forked-kqcmnq](https://codesandbox.io/p/sandbox/uwu-com-forked-kqcmnq?file=%2Ffile.html)
 
 <hr>
 
