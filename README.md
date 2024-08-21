@@ -1,5 +1,5 @@
 # Multimedia Converter Tools Website (Frontend UI)
-HTML,CSS,JS 
+HTML,CSS,JAVASCRIPT
 
 <hr>
 
@@ -22,9 +22,9 @@ JavaScript
 Developed the frontend of a multimedia converter tools website. The project involved creating a user-friendly interface for various file conversion tools, including PDF, video, image, and document conversions.
 
 ### Key Features:
-- Responsive Design:Designed a responsive layout using HTML and CSS, ensuring optimal viewing across various devices, including desktops, tablets, and mobile phones.
-- User Interface (UI):Created an intuitive and visually appealing interface with clear navigation and easy access to all conversion tools.Implemented animations and interactive elements using JavaScript to enhance user engagement and experience.
-- Tool Categories:Organized tools into categories like PDF, video, image, and document converters, with each tool easily accessible from the homepage.
+- **Responsive Design:** Designed a responsive layout using HTML and CSS, ensuring optimal viewing across various devices, including desktops, tablets, and mobile phones.
+- **User Interface (UI):** Created an intuitive and visually appealing interface with clear navigation and easy access to all conversion tools.Implemented animations and interactive elements using JavaScript to enhance user engagement and experience.
+- **Tool Categories:** Organized tools into categories like PDF, video, image, and document converters, with each tool easily accessible from the homepage.
 Integrated search functionality for users to quickly find the tool they need.
 
 ### Impact:
@@ -50,4 +50,5 @@ Provided a sleek and functional UI for a multimedia converter platform, improvin
 ![Demo Image](https://github.com/smit012/Multimedia-Converter-Tools-Website-Frontend-UI-/blob/main/Share.png)
 
 
-
+<HR>
+<HR>
